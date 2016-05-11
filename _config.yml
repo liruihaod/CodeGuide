@@ -1,5 +1,5 @@
-name:          Code Guide for @DeyiFront forked from @AlloyTeam
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS, and maintainable JavaScript
+name:          Code Guide for @DeyiFront
+description:   Standards for developing flexible, durable, and sustainable HTML and CSS, and maintainable JavaScript.(forked from @AlloyTeam)
 url:           https://github.com/DeyiFront/CodeGuide
 
 include:       [".editorconfig", ".jscsrc", ".jshintrc", ".csslintrc", ".scss-lint.yml"]
