@@ -49,6 +49,7 @@ layout: nil
  */
 
 html {
+    position: relative;
     font-size: 16px;
 }
 @media (min-width: 48em) {
@@ -60,6 +61,8 @@ html {
 body {
     overflow-x: hidden;
     overflow-y: auto;
+
+    width: 100%;
 
     margin: 0;
 
