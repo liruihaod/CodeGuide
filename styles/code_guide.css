@@ -157,6 +157,7 @@ code {
     padding: 2px 4px;
 
     font-size: 85%;
+    word-break: break-all;
 
     color: #d44950;
     background-color: #f7f7f9;
@@ -298,6 +299,8 @@ pre code {
 }
 
 .section {
+    overflow: hidden;
+
     border-bottom: 1px solid #dfe1e8;
 }
 
